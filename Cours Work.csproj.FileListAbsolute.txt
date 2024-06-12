@@ -1,0 +1,25 @@
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\bin\Debug\net8.0\Cours Work.exe
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\bin\Debug\net8.0\Cours Work.deps.json
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\bin\Debug\net8.0\Cours Work.runtimeconfig.json
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\bin\Debug\net8.0\Cours Work.dll
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\bin\Debug\net8.0\Cours Work.pdb
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.csproj.AssemblyReference.cache
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.AssemblyInfoInputs.cache
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.AssemblyInfo.cs
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.csproj.CoreCompileInputs.cache
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.csproj.Up2Date
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.dll
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\refint\Cours Work.dll
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.pdb
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.genruntimeconfig.cache
+C:\Users\cifyr\OneDrive - Kharkiv National University of Radioelectronics\PersonalFiles\cours work Tania\Cours Work\Cours Work\obj\Debug\net8.0\ref\Cours Work.dll
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.csproj.AssemblyReference.cache
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.AssemblyInfoInputs.cache
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.AssemblyInfo.cs
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.dll
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\refint\Cours Work.dll
+C:\Users\DELL\Downloads\Telegram Desktop\Cours Work\Cours Work\obj\Debug\net8.0\Cours Work.pdb
